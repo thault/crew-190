@@ -8,6 +8,14 @@ header {
   padding: 154px 0 100px;
 }
 
+header h1{
+    color: #FCD116;
+}
+
+header p{
+    color: #FCD116;
+}
+
 @media (min-width: 992px) {
   header {
     padding: 156px 0 100px;
@@ -20,4 +28,13 @@ section {
 
 h1 {
   font: comic sans;
+}
+
+
+.bg-primary {
+    background-color: #006B3F!important;
+}
+
+.bg-dark {
+    background-color: #858787!important;
 }
