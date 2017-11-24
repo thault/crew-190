@@ -38,3 +38,7 @@ h1 {
 .bg-dark {
     background-color: #858787!important;
 }
+
+section.contact .officer{
+    text-align: center;
+}
