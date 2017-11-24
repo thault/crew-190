@@ -24,13 +24,28 @@ header p{
 
 section {
   padding: 150px 0;
+  background: #dadbdb;
 }
 
 h1 {
-  font: comic sans;
+  font-family: 'helvetica';
 }
 
+h2 {
+  font-family: 'helvetica';
+}
 
+h3 {
+  font-family: 'helvetica';
+}
+
+p {
+  font-family: 'helvetica';
+}
+
+a {
+  font-family: 'helvetica';
+}
 .bg-primary {
     background-color: #006B3F!important;
 }
@@ -39,6 +54,10 @@ h1 {
     background-color: #858787!important;
 }
 
-section.contact .officer{
+.officer{
     text-align: center;
 }
+.section.contact p{
+    text-align: center;
+}
+
